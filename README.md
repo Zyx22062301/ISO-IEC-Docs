@@ -1,4 +1,4 @@
-<img src="Assets/icon.jpg" alt="ISO IEC Icon" style="zoom: 50%;" />
+<img src="./Assets/icon.jpg" alt="ISO IEC Icon" style="zoom: 50%;" />
 
 # <center> ISO-IEC Docs </center>
 

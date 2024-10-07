@@ -6,6 +6,7 @@
 
 - [ISO-IEC-18004-2024](https://github.com/github201014/ISO-IEC-Docs/blob/main/18004/2024/BS_ISO_IEC_18004_2024_en-US.pdf)  # Updated on 2024-10-07
 - [ISO-IEC-18004-2015](https://github.com/github201014/ISO-IEC-Docs/blob/main/18004/2015/ISO_IEC_18004_2015_en-US.pdf)  # Updated on 2024-10-07
+- [ISO-IEC-14882-2020](https://github.com/github201014/ISO-IEC-Docs/blob/main/14882/2020/BS_ISO_IEC_14882_2020.pdf) # Updated on 2024-10-07
 
 
 

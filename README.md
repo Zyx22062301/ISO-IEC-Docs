@@ -1,5 +1,3 @@
-<img src="./Assets/icon.jpg" alt="ISO IEC Icon" style="zoom: 50%;" />
-
 # ISO-IEC Docs
 
 ## Introduction

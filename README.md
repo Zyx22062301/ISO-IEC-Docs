@@ -1,5 +1,7 @@
 # ISO-IEC Docs
 
+加速访问：[Gitee 仓库](https://gitee.com/MICRO201014/ISO-IEC-Docs)
+
 ## Introduction
 
 欢迎来到 ISO-IEC Docs！此存储库收集主要来自 BSOL 的 ISO-IEC 标准文档，你可以在此存储库中找到以下文档：

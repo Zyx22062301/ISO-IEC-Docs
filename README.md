@@ -16,9 +16,7 @@
 注意：由于文件体积过大，GitHub 无法解析，建议下载查看。
 
 
-若你想获取更多文档，请访问：
-* [ISO-IEC-Docs-at-LanzouDrive](https://610402220623.lanzouq.com/b00tay8n1c) 
-* 密码:0000
+若你想获取更多文档，请访问：[https://610402220623.lanzouq.com/b00tay8n1c](https://610402220623.lanzouq.com/b00tay8n1c)，密码:0000
 
 
 

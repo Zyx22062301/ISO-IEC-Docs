@@ -1,6 +1,6 @@
 # ISO-IEC Docs
 
-加速访问：[Gitee 仓库](https://gitee.com/MICRO201014/ISO-IEC-Docs)
+加速访问：[Gitee 仓库](https://gitee.com/MICRO201014/ISO-IEC-Docs)  [GitCode 仓库](https://gitcode.com/2402_84665876/ISO-IEC-Docs/overview)
 
 ## Introduction
 

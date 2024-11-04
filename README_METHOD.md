@@ -1,5 +1,7 @@
 # 通过 BSOL 免费获取收费的 ISO-IEC 文档
 
+提示：若图床图片无法加载，请下载[mhtml](https://github.com/Zyx22062301/ISO-IEC-Docs/blob/main/README_METHOD.mhtml) 文件以查看。
+
 ## BSOL 简介
 
 英国标准在线数据库（BSOL）是BSI（英国标准协会）的产品，该协会于1901年成立，是世 界上历史上最悠久的国际标准机构之一。BSI标准与欧盟标准和ISO标准相互采纳，BSI标准已成 为事实上的国际标准，在全球范围内得到了广泛应用。英国标准在线数据库（BSOL）可以在线浏 览90000余个权威标准的全文，收录了全部的英国标准，欧洲标准，IEC标准，90%以上的ISO国际标准。 BSOL 数据库可以通过 National Library of Scotland （ https://www.nls.uk/ ） 授权登录，而 National Library of Scotland是可以免费使用的（要求通讯地址在Scotland）。

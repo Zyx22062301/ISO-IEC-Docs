@@ -15,10 +15,22 @@
    - ISO IEC 14882:2017
    - ISO IEC 14882:2024
 
+## 下载此存储库的全部文档
+1. 使用 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git` 以将此仓库的全部文件和历史记录克隆到本地；
+2. 如果你想将此仓库克隆后再推送到其他的 git 存储库，请使用 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git --bare` 或 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git --mirror`
+3. 在大多数情况下，你可能不需要提交历史等信息，这时你只需要下载最近一次提交的 zip 文件即可。
+
+![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/Assets/downloadzip.png)
+
+## 下载此存储库的特定文件
+将链接头 `https://github.com/Zyx22062301/ISO-IEC-Docs/tree/main/` 替换成 `https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/` 然后访问即可
+
 ## 注意
 - 由于文件体积过大，GitHub 无法解析，建议下载查看。
 - [蓝奏云网盘链接（密码：0000）](https://610402220623.lanzouq.com/b00tay8n1c) 以后不再维护。
 - 你可以访问[Gitee 仓库](https://gitee.com/MICRO201014_admin/ISO-IEC-Docs)，[GitCode 仓库](https://gitcode.com/2402_84665876/ISO-IEC-Docs/overview) 或 [AtomGit 仓库](https://atomgit.com/micro201014/ISO-IEC-Docs) 以获取更快的下载速度，但以上站点可能出现未及时更新的情况。
+
+
 
 
 

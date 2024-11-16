@@ -25,6 +25,9 @@
 ## 下载此存储库的特定文件
 将链接头 `https://github.com/Zyx22062301/ISO-IEC-Docs/tree/main/` 替换成 `https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/` 然后访问即可
 
+## 想知道我如何获取这些文档？
+请查看 [METHOD.md](https://github.com/Zyx22062301/ISO-IEC-Docs/blob/main/METHOD.md) 或 [METHOD.pdf](https://github.com/Zyx22062301/ISO-IEC-Docs/blob/main/METHOD.pdf) 以获取下载方法。
+
 ## 注意
 - 由于文件体积过大，GitHub 无法解析，建议下载查看。
 - [蓝奏云网盘链接（密码：0000）](https://610402220623.lanzouq.com/b00tay8n1c) 以后不再维护。

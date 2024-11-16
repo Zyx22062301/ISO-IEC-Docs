@@ -30,7 +30,7 @@
 
 ## 注意
 - 由于文件体积过大，GitHub 无法解析，建议下载查看。
-- [蓝奏云网盘链接（密码：0000）](https://610402220623.lanzouq.com/b00tay8n1c) 以后不再维护。
+- [蓝奏云网盘链接（密码：0000）](https://610402220623.lanzouq.com/b00tay8n1c) , GitCode 仓库和 AtomGit 仓库以后不再维护。
 - 你可以访问 [Gitee 仓库](https://gitee.com/MICRO201014_admin/ISO-IEC-Docs) 以获取更快的下载速度，但此仓库可能出现未及时更新的情况。
 
 ## 仓库编辑情况统计

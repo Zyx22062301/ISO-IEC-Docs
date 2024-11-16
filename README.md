@@ -2,6 +2,8 @@
 
 加速访问：[Gitee 仓库](https://gitee.com/MICRO201014_admin/ISO-IEC-Docs)  [GitCode 仓库](https://gitcode.com/2402_84665876/ISO-IEC-Docs/overview) [AtomGit 仓库](https://atomgit.com/micro201014/ISO-IEC-Docs)
 
+注意：以上站点可能出现未及时更新的情况。
+
 ## Introduction
 
 欢迎来到 ISO-IEC Docs！此存储库收集主要来自 BSOL 的 ISO-IEC 标准文档，你可以在此存储库中找到以下文档：

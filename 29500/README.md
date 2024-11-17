@@ -5,9 +5,3 @@
 ## 视频教程：
 
 <video src="https://github.com/user-attachments/assets/1734b0f0-46d0-443b-9f10-f2004b0e1d9d">
-
-## 搜索截图：
-
-![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/Assets/29500-README-1.png)
-
-

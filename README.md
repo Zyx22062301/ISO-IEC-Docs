@@ -5,15 +5,19 @@
 欢迎来到 ISO-IEC Docs！此存储库收集主要来自 BSOL 的 ISO-IEC 标准文档，以及少量的来自网络直链的文档。
 
 ## 近期更新
+- 2024-11-17
+   - ISO IEC 29500-1:2016
+   - ISO IEC 29500-2:2021
+   - ISO IEC 29500-3:2015
+   - ISO IEC 29500-4:2016
+   - ISO IEC 32000-1:2008
+   - ISO IEC 32000-2:2020, 2017
 - 2024-11-16
    - ISO IEC 14882:2003
    - ISO IEC 14882:2011
    - ISO IEC 14882:2014
    - ISO IEC 9899:2018
    - ISO IEC 9899:2024
-- 2024-10-28
-   - ISO IEC 14882:2017
-   - ISO IEC 14882:2024
 
 ## 下载此存储库的全部文档
 1. 使用 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git` 以将此仓库的全部文件和历史记录克隆到本地；

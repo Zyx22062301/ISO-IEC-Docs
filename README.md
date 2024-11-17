@@ -40,6 +40,18 @@
 ## 仓库编辑情况统计
 ![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/contributors.png)
 
+## 捐赠
+
+如果此仓库帮助了你，且你有捐赠意愿，请通过以下渠道捐赠：
+
+1. 把自己从网上找到的标准文档公开分享，并在讨论区发表链接；
+2. 捐赠一点费用。
+
+<p align = "center">    
+<img  src="https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/alipay.jpg" height="600" />
+<img  src="https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/wepay.png" height="600" />
+</p>
+
 
 
 

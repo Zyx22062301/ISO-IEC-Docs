@@ -2,6 +2,9 @@
 
 # ISO-IEC Docs
 
+> [!WARNING]
+> 因此存储库容量过大，此存储库已于 2024 年 11 月 17 日存档，如果你想访问最新的 ISO-IEC-Docs，请转到 [ISO-IEC-Docs 组织](https://github.com/ISO-IEC-Docs/)。
+
 欢迎来到 ISO-IEC Docs！此存储库收集主要来自 BSOL 的 ISO-IEC 标准文档，以及少量的来自网络直链的文档。
 
 ## 近期更新

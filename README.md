@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/Assets/icon.jpg)
+![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/icon.jpg)
 
 # ISO-IEC Docs
 
@@ -20,7 +20,7 @@
 2. 如果你想将此仓库克隆后再推送到其他的 git 存储库，请使用 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git --bare` 或 `git clone https://github.com/Zyx22062301/ISO-IEC-Docs.git --mirror`
 3. 在大多数情况下，你可能不需要提交历史等信息，这时你只需要下载最近一次提交的 zip 文件即可。
 
-![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/Assets/downloadzip.png)
+![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/downloadzip.png)
 
 ## 下载此存储库的特定文件
 将链接头 `https://github.com/Zyx22062301/ISO-IEC-Docs/tree/main/` 替换成 `https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/` 然后访问即可
@@ -34,7 +34,7 @@
 - 你可以访问 [Gitee 仓库](https://gitee.com/MICRO201014_admin/ISO-IEC-Docs) 以获取更快的下载速度，但此仓库可能出现未及时更新的情况。
 
 ## 仓库编辑情况统计
-![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs/refs/heads/main/Assets/contributors.png)
+![](https://raw.githubusercontent.com/Zyx22062301/ISO-IEC-Docs-Assets/refs/heads/main/contributors.png)
 
 
 
